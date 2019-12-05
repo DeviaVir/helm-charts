@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   gitlab-runner:
   - apiVersion: v1
-    appVersion: 12.4.1-1
-    created: "2019-12-05T11:38:49.901299475+01:00"
+    appVersion: 12.5.0
+    created: "2019-12-05T11:44:25.232600282+01:00"
     description: GitLab Runner
-    digest: caec13f18f0983a98a593545806962d3f876e258bd1916aad4a8cbc3e19e1a9d
+    digest: c5c142a972e5498b972248a867ab3d55f3fd7e8f8cbc473c6359d8d2c86674c1
     icon: https://gitlab.com/uploads/-/system/project/avatar/250833/runner_logo.png
     keywords:
     - git
@@ -19,6 +19,6 @@ entries:
     - https://hub.docker.com/r/gitlab/gitlab-runner/
     - https://docs.gitlab.com/runner/
     urls:
-    - https://deviavir.github.io/helm-charts/gitlab-runner-12.4.1-1.tgz
-    version: 12.4.1-1
-generated: "2019-12-05T11:38:49.897044827+01:00"
+    - https://deviavir.github.io/helm-charts/gitlab-runner-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-05T11:44:25.232089356+01:00"
