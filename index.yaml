@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   gitlab-runner:
   - apiVersion: v1
-    appVersion: 12.4.1-1
+    appVersion: 12.4.1
     created: "2019-11-07T12:27:44.771679287+01:00"
     description: GitLab Runner
     digest: caec13f18f0983a98a593545806962d3f876e258bd1916aad4a8cbc3e19e1a9d
