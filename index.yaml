@@ -2,8 +2,8 @@ apiVersion: v1
 entries:
   gitlab-runner:
   - apiVersion: v1
-    appVersion: 12.4.1
-    created: "2019-11-07T12:27:44.771679287+01:00"
+    appVersion: 12.4.1-1
+    created: "2019-12-05T11:38:49.901299475+01:00"
     description: GitLab Runner
     digest: caec13f18f0983a98a593545806962d3f876e258bd1916aad4a8cbc3e19e1a9d
     icon: https://gitlab.com/uploads/-/system/project/avatar/250833/runner_logo.png
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://deviavir.github.io/helm-charts/gitlab-runner-12.4.1-1.tgz
     version: 12.4.1-1
-generated: "2019-11-07T12:27:44.771127558+01:00"
+generated: "2019-12-05T11:38:49.897044827+01:00"
